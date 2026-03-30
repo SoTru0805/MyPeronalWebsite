@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Thanh Son Truong — Personal Portfolio Website
 
 A dark, tech-themed personal portfolio website built with vanilla HTML, CSS, and JavaScript. Showcases projects, skills, and experience as a full-stack IT student based in Melbourne, Australia.
@@ -130,3 +131,7 @@ This project is personal and not licensed for reuse. Feel free to use it as insp
 ---
 
 *Built by Thanh Son Truong · Melbourne, AU*
+=======
+# MyPeronalWebsite
+Personal portfolio website built with vanilla HTML, CSS &amp; JavaScript. Features project case studies, skills, and experience as a full-stack IT student based in Melbourne.
+>>>>>>> d6fed0e76f41fcc1f0b565259406eaffa6bee60e
